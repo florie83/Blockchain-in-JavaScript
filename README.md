@@ -2,15 +2,15 @@
 A Modular Blockchain Node and Wallet Implementation in JavaScript.
 
 ## Features
-* Multiple local and remote nodes can be linked in the network.
-* Websockets allow communication between nodes.
-* Decryption of signatures to check the authenticity of transactions.
-* Maintanence of transaction pools for each node.
-* Mining of transactions from the pool into blocks.
-* Transmission of blocks between nodes.
-* Proof of work implementation with difficulty adjusting algorithm.
-* Conflict resolution between nodes by hash power
-* Wallet implemetation and Balance calculation based on UTXO
+* Multiple local and remote **Nodes** can be linked in the network.
+* Websockets allow communication between Nodes.
+* Decryption of Signatures to check the **authenticity** of Transactions.
+* Maintanence of **Transaction Pools** for each node.
+* **Mining** of Transactions from the Pool into Blocks.
+* **Transmission** of Blocks between Nodes.
+* **Proof of Work** implementation with **Difficulty** adjusting algorithm.
+* **Conflict Resolution** between nodes by Hash Power.
+* **Wallet implemetation** and **Balance calculation** based on UTXOs.
 
 ## Setup
 Requires a Windows environment and npm (https://www.npmjs.com/).
