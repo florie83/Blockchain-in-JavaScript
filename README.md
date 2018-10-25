@@ -45,11 +45,5 @@ To run multiple nodes just change the port values and add new peers.
    Get the Wallet Balance.
 * `/transact` : (POST(-{recipient:"",amount:""}))\
    Post a Transaction.
-
-## Two nodes in action in Postman
-A Transaction in the network.
-![Alt text](Screens/snap1.PNG?raw=true)\
-\
-\
-A Block being mined.
-![Alt text](Screens/snap2.PNG?raw=true)
+   
+ 
